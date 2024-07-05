@@ -1,0 +1,95 @@
+*{
+    background-color:#222831;
+}
+.portfolio img{
+    width: 90%;
+}
+h2{
+    background-color: #76ABAE;
+    text-align: center;
+}
+nav ul{
+    margin-top: 0px;
+    display: flex;
+    background-color: #76ABAE;
+    height: 50px;
+    justify-content: right;
+}
+li{
+    margin: 14px;
+    background-color: #76ABAE;
+}
+a{
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+    margin-right: 60px;
+    font-weight: bolder;
+}
+a:hover{
+    text-shadow: 4px 4px 8px #222831;
+}
+.rows{
+    display: flex;
+}
+.col-1{
+    margin: 8px;
+    color: white;
+}
+form{
+    width: 900px;
+    margin-left: 600px;
+
+}
+.name{
+    width: 284px;
+    border: 3px solid #EEEEEE;
+}
+.project{
+    border: 8px solid #EEEEEE;
+    background-color: #EEEEEE;
+    border-radius: 24px;
+}
+.project img{
+    width: 250px;
+    height: 250px;
+    margin-left: 7px;
+    border-radius: 12px;
+}
+.rows1{
+    display: flex;
+    justify-content: space-around;
+}
+.project p{
+    width: 250px;
+    color: rgb(0, 0, 0);
+    margin: 8px;
+    background-color: #EEEEEE;
+}
+.dp img{
+    border: 3px solid #EEEEEE;
+    border-radius: 100%;
+    margin-top: 133px;
+}
+#dp{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+}
+.portfolio h1{
+    margin-top: 240px;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 60px;
+}
+#form img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin: 3px;
+}
+button{
+    background-color: #EEEEEE;
+    width: 294px;
+    height: 40px;
+
+}
